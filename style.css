@@ -1,4 +1,9 @@
+body {
+  background-color: white;
+}
 #head {
   font-family: sans-serif;
   font-size: 30px;
+  position: absolute;
+  text-align: center;
 }
